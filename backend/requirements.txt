@@ -52,7 +52,7 @@ google-auth-httplib2==0.1.0
 google-auth-oauthlib==1.0.0
 googleapis-common-protos==1.60.0
 greenlet==2.0.2
-h11==0.14.0
+h11==0.16.0
 hiredis==2.2.3
 httpcore==0.17.3
 httplib2==0.22.0
